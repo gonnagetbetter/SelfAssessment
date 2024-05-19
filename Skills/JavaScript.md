@@ -37,14 +37,14 @@
   - Logical Assignment e
   - Bitwise operators e
   - Ternary operator e
-  - `void` 
-  - `yield`
+  - `void` h
+  - `yield` h
   - `await` e
   - Template literal
   - Strict mode e
   - Hoisting
   - `delete` 
-  - `in`
+  - `in` h
   - `super` e
   - `eval` e
   - `static` e

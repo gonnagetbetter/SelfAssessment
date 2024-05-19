@@ -12,29 +12,29 @@
   - Tuple store 
   - Graph databases h
   - Object databases h
-  - Column databases
+  - Column databases 
   - Navigational databases
-  - Hierarchical databases
-  - In-memory databases
+  - Hierarchical databases k
+  - In-memory databases k
   - Inverted index
   - Data control language (DCL) u
   - Data definition language (DDL) u
   - Data manipulation language (DML) u
   - Data query language (DQL) u
 - Relational
-  - Entity-Relationship Diagram
-  - Normal forms
+  - Entity-Relationship Diagram u
+  - Normal forms k
   - Indexing h
   - Primary keys u
   - Foreign keys u
   - Transactions h 
-  - Views
-  - Subqueries
-  - Stored procedures h
-  - SQL functions h
+  - Views h
+  - Subqueries u
+  - Stored procedures u
+  - SQL functions u
   - Materialized views
   - Replications
-  - Virtualization
+  - Virtualization h
 - SQL
   - `SELECT` u
   - `INSERT` u
@@ -71,7 +71,7 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL u
-  - Oracle h
+  - Oracle k
   - MySQL u
   - MariaDB h
   - MS SQL Server u

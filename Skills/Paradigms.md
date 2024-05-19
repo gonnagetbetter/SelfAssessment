@@ -49,14 +49,14 @@
   - Reflection
   - The diamond problem
 - GRASP
-  - Information expert
-  - Creator
+  - Information expert h
+  - Creator h
   - Controller u
   - Indirection h
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Low coupling h
+  - High cohesion h
+  - Protected variations h
+  - Pure fabrication h
 - SOLID
   - Single-responsibility principle (SRP) e
   - Open–closed principle (OCP) e
@@ -74,18 +74,18 @@
   - Proxy h
   - Chain of Responsibility 
   - Command
-  - Iterator
+  - Iterator h
   - State
   - Bridge
-  - Builder
-  - Prototype
+  - Builder h
+  - Prototype h
   - Composite
   - Decorator h
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
-  - Visitor
+  - Template Method h
+  - Visitor h
   - Reactor
   - Active object
   - Delegation

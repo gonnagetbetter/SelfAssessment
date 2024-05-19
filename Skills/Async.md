@@ -10,21 +10,21 @@
   - CAS operations
   - epoll
   - kqueue
-  - Completion ports
+  - Completion ports h
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks h
+  - Dead locks e
   - Live locks h
-  - Concurrent programming
-  - Parallel programming h
+  - Concurrent programming h
+  - Parallel programming u
   - Actor Model
   - Thread k
   - Process k
 - Async contracts
   - Callbacks u
   - Callback-last-error-first
-  - Thenable
+  - Thenable h
   - Promise u
   - Async/await u
   - Future
@@ -39,13 +39,13 @@
   - Stream u
   - Chain of responsibility
   - Middleware h
-  - Locks
+  - Locks h
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - Callbacks compose
-  - Async compose
+  - callbackify h
+  - promisify h
+  - asyncify h
+  - Callbacks compose h
+  - Async compose h
 - Async abstractions interfaces
   - EventEmitter k
   - Observable/Observer k
@@ -55,34 +55,34 @@
   - Async Pool k
   - Async Queue k
   - Async Collector
-  - Semaphore
-  - Mutex k
+  - Semaphore u
+  - Mutex u
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers k
   - `setImmediate` k
-  - `nextTick`
+  - `nextTick` h
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics h
   - High resolution clock
   - Callback hell k
   - Promise hell k
-  - ref() and unref()
+  - ref() and unref() h
   - Error handling in async code k
   - Better stack traces with return await
   - JSON streaming serialization k
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library
+  - Async.js library u
   - RxJS library
   - Promise.all u
   - Promise.allSettled
   - Promise.race h
-  - Promise.any
+  - Promise.any h
   - Web Locks API
   - IPC
   - Channel API

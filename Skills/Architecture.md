@@ -1,40 +1,40 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity h
+  - Components 
+  - Directories h
+  - GRASP h
+  - SOLID u
   - GoF patterns
   - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
+  - Leaking abstractions 
+  - Multiparadigm code h
+  - Contract programming h
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage e
   - Cohesion
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality
+  - Quality h
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer h
+  - Domain-specific language (DSL) 
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach 
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Metaprogramming h
+  - Inversion of control (IoC) h
+  - Dependency injection (DI) e
   - Clean architecture
-  - Domain-driven design (DDD)
+  - Domain-driven design (DDD) h
   - Pub/sub
   - Message brocker
   - Agent
@@ -47,11 +47,11 @@
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
+  - Budget estimation u
+  - Distributed systems h
   - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Load balancing u
+  - Gateways h
   - On-premises
   - IaaS
   - PaaS
@@ -64,31 +64,31 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
+  - System design h
+  - Process modelling h
+  - Data modelling h
+  - Solution components h
   - Risk assessment
-  - Non Functional Requirements (NFR)
+  - Non Functional Requirements (NFR) h
   - Clouds
   - BPMN
   - Low-code
   - No-code
   - Metric
   - Metric abuse
-  - ACID
+  - ACID h
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT) h
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
+  - Understanding business needs 
+  - Enterprise strategy h
+  - Integration with subsystems h
   - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
+  - Enterprise capabilities 
+  - Project scope h
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices h
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance h
   - Engineering Hygiene

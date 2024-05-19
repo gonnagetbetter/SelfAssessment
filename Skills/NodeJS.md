@@ -5,14 +5,14 @@
   - Stateful and stateless servers h
   - Nonblocking I/O and blocking code
   - Event loop phases h
-  - Event loop microtasks and macrotasks
+  - Event loop microtasks and macrotasks h
   - Garbage collection h
   - Node.js LTS schedule 
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules u
-  - ECMAScript modules
+  - ECMAScript modules h
   - Module `node:module` u
   - Caching in CJS and ESM
   - Modules as singletons 
@@ -20,7 +20,7 @@
   - Dependencies: `npm`, `node_modules` e
   - Files `package.json`, `package-lock.json` e
   - Module-based permissions model h
-  - Isolation with modularity 
+  - Isolation with modularity h
   - Dependency injection u
   - DI containers h
   - Coupling and cohesion
@@ -28,9 +28,9 @@
 - Environment
   - Command line arguments u
   - Node.js CLI u
-  - Process-based permissions
+  - Process-based permissions h
   - Graceful shutdown
-  - Clustering
+  - Clustering h
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API 
@@ -40,15 +40,15 @@
   - Web Crypto API
   - File system API (sync and async) u
   - Copy folder recursively
-  - Worker threads 
-  - Performance hooks
+  - Worker threads h
+  - Performance hooks 
   - Native fetch and nodejs/undici
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - SharedArrayBuffer
+  - SharedArrayBuffer h
   - Module `node:worker_threads`
   - Module `node:child_process`
   - MessageChannel, MessagePort
@@ -76,7 +76,7 @@
   - HTTP/3 (QUIC)
   - Long polling
   - REST u
-  - RPC
+  - RPC h
   - Routing u
   - DoS e
   - DDoS e
@@ -89,37 +89,37 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
+  - Logging k
+  - Application configuring k
   - Testing u
   - CI/CD u
-  - Readable
-  - Writable
+  - Readable h
+  - Writable h
   - Transform
   - Back pressure
-  - Buffer
+  - Buffer h
   - Console u
   - Inspector
 - Data access
-  - Data access layer
+  - Data access layer h
   - Repository u
   - Active record 
   - Query builder u
   - Object-Relational Mapping
   - CRUD u
-  - DTO
+  - DTO u
 - Error handling and debugging
-  - `Error`
+  - `Error` u
   - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
+  - `error.code` u
+  - `error.message` u
+  - `error.stack` k
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions k
   - Heap dump
   - Debugging tools
-  - Flame graph
+  - Flame graph h
   - Memory leaks h
   - Resource leaks h
   - Data race h
